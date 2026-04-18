@@ -9,7 +9,7 @@ function sub(a,b){
 }
 
 
-console.log(module.exports);
+// console.log(module.exports);
 
 // module.exports = {sum,sub};
 module.exports.sum = sum;
